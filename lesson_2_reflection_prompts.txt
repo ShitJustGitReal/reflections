@@ -12,7 +12,7 @@ How can you use the staging area to make sure you have one commit per logical
 change?
 
 
-Consider it a finetune and tracking area before the change is ready to become a full grown commit.  
+Consider it a finetune and tracking area for all files involved before the change is ready to become a full grown commit.  
 
 What are some situations when branches would be helpful in keeping your history
 organized?
