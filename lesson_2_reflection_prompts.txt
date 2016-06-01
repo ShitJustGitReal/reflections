@@ -3,17 +3,16 @@ You will create a new repository, along with the neccessary hidden .git director
 
 Why do you need to do it?
 
-How is the staging area different from the working directory and the repository?
+ How is the staging area different from the working directory and the repository?
+ What value do you think it offers?
+Only files in the staging area are tracked, which means you don't have to track all the files and small changes in a repository directory. Moreover, files in the staging area can still be changed, and tested, and changed, and tested without being stored as a commit.
 
 
-What value do you think it offers?
-
-
-
-How can you use the staging area to make sure you have one commit per logical
+How can you use the staging area to make sure you have one commit per logical 
 change?
 
 
+Consider it a finetune and tracking area before the change is ready to become a full grown commit.  
 
 What are some situations when branches would be helpful in keeping your history
 organized?
