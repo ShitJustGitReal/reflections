@@ -24,6 +24,7 @@ The branched versions are not stored in the master's thread so can be further de
 
 
 How do the diagrams help you visualize the branch structure?
+It gives more insights in how git stores the commits and branches, and how they relate to one another. Ultimately the commits only store after which commit they were done.  
 
 
 
