@@ -20,6 +20,7 @@ When you are not bugfixing or updating the core project, but want to add some to
 
 How would branches help?
 
+The branched versions are not stored in the master's thread so can be further developed and tested apart from it, but can also be merged with the master thread when for example the new functionally seems a win to the core project. 
 
 
 How do the diagrams help you visualize the branch structure?
