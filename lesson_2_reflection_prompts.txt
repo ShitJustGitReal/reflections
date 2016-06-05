@@ -29,10 +29,12 @@ It gives more insights in how git stores the commits and branches, and how they 
 
 
 What is the result of merging two branches together?
+The commits of both branches are merged into one branch.
 
-Why do we represent it in
+Why do we represent it in 
 the diagram the way we do?
 
+Because that way we know when the branches were created and merged, and what became the main/master branch.
 
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges 
