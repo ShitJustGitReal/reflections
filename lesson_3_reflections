@@ -2,9 +2,17 @@
 - Well, an online backup never hurts.
 - And of course to be able to work on the project from different machines.
 - But most of all: to work on the project with other collaborators.
+
 2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Maybe your local changes or the changes done to remote aren't finished yet.  You don't want to share crap or lure crap in.
 And maybe you aren't satisfied with the way the remote project is going, and want to go your own way with it. Or you haven't been to the project for a long time, and want to check compatibility first.
+
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+- Forks are for copying projects from GH you want to work on with other collaborators.
+- I will never use a direct clone of someone else's GH project again because it is not open source. Well, maybe if I just wanted to try something. But not when I'm seriously putting an effort into it.
+- Branches are for developing new features or making separate sideprojects WITHIN a fork or clone.  
+
 
 More content will follow soon, please stay looney tuned.
 
