@@ -16,6 +16,16 @@ And maybe you aren't satisfied with the way the remote project is going, and wan
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
 We want to make sure our new features and/or improvements and those done to the remote stay compatible with each other. When stored locally, we can diffcheck the latest code of the remote with our version, and resolve possible conflicts. 
 
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Using a diffchecker, a directory somewhere in the cloud, plus an extensive readme file would make the project's administration much less time consuming at first. 
+
+But after a while, things will probably get messy:
+- We will only have the latest version (or numerous numbered versions of files)
+- We would not be able to look back what we did when and why.
+- We would not have clear branches.
+- We would not be able to collaborate with multiple people easily.
+- We would not be able to share our code easily with other people interested in what we are doing.
+
 
 More content will follow soon, please stay looney tuned.
 
