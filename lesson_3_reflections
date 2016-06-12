@@ -13,6 +13,9 @@ And maybe you aren't satisfied with the way the remote project is going, and wan
 - I will never use a direct clone of someone else's GH project again because it is not open source. Well, maybe if I just wanted to try something. But not when I'm seriously putting an effort into it.
 - Branches are for developing new features or making separate sideprojects WITHIN a fork or clone.  
 
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+We want to make sure our new features and/or improvements and those done to the remote stay compatible with each other. When stored locally, we can diffcheck the latest code of the remote with our version, and resolve possible conflicts. 
+
 
 More content will follow soon, please stay looney tuned.
 
