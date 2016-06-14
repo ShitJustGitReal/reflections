@@ -26,7 +26,15 @@ But after a while, things will probably get messy:
 - We would not be able to collaborate with multiple people easily.
 - We would not be able to share our code easily with other people interested in what we are doing.
 
+6.When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I would work in a separate branch when:
+- working on entirely new features.
+- working on separate versions of the main program.
+- refactoring code to a large extend.
 
-More content will follow soon, please stay looney tuned.
+Working on master is just for small bugfixes and additions. And for introducing the new features and refactored code from the separate branches of course.
+
+
+<!-- More content will follow soon, please stay looney tuned. -->
 
 
